@@ -1,17 +1,17 @@
-# Sketch plugins by Cemre Güngör
+# 优狐哥汉化
 
-### Installation
+### sketch插件的安装方法
 
-* Download the [ZIP file](https://github.com/cemre/cemre-sketch-plugins/archive/master.zip)
-* In Sketch, select Plugins > Reveal plugins folder
-* Move all the files from the ZIP into the plugins folder
+* 下载[ZIP 安装包](https://github.com/cemre/cemre-sketch-plugins/archive/master.zip)
+* 打开Sketch, 选择 Plugins 再选择 Reveal plugins folder
+* 解压安装包，并将安装包文件复制移动到插件的安装路径（就是刚打开的目录）
 
-### Stack Children (NEW)
+### Stack Children (新版)
 Aligns all the child layers of a group so that they are stacked vertically in a table. This is great for prototyping table cells with symbols, when you change the paddings or the size, you can use this to quickly lay the table out.
 
-**Shortcut: ctrl alt cmd t**
+**快捷键: ctrl alt cmd t**
 
-![Demo of stacker plugin](https://cloud.githubusercontent.com/assets/200566/7672840/4625c7d2-fcb7-11e4-95f4-32f9e064ede4.gif)
+![插件功能演示](https://cloud.githubusercontent.com/assets/200566/7672840/4625c7d2-fcb7-11e4-95f4-32f9e064ede4.gif)
 
 ### Scale half
 Scales the currently selected object in half. It scales the attributes as well.
